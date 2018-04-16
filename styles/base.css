@@ -2,6 +2,21 @@
 {
 }
 
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #141f1f;
+    color: white;
+    text-align: left;
+    padding-left: 5%;
+}
+
+.main-content{
+    margin-bottom:200px;
+}
+
 .img-center {
     display: block;
     margin-left: auto;
@@ -9,9 +24,40 @@
     width: 40%;
 }
 
+.cv-center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+    max-width:800px;
+}
+
+.contact-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    max-width: 800px;
+}
+
+.contact-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    max-width:600px;
+}
+
+.font-anton {
+    font-family: 'Anton', sans-serif;
+}
+
+.font-source-sans-pro {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 .top_image {
     width: 100%;
-    height: 1000px;
     margin: 0 auto;
     background-color: #141f1f;
 }
@@ -32,4 +78,13 @@
     font-weight: 500;
     font-size: x-large;
     text-align: center;
+}
+
+.index-span {
+    font-weight:bold;
+}
+
+.fontawesome-definition {
+    font-size: 15px;
+    color: white;
 }
